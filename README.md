@@ -1,2 +1,2 @@
 # churn-classifier
-Data and Notebooks used to compete in the Kaggel churn prediction competition
+Data and Notebooks used to complete in the [Kaggel Churn Prediction](https://www.kaggle.com/competitions/mdss-customer-churn-prediction/data) challenge
